@@ -1,0 +1,5 @@
+../Mid/e2prom/eeprom.c:17:19:EEPROM_Init	4	static
+../Mid/e2prom/eeprom.c:22:19:EEPROM_RandomRead	40	static
+../Mid/e2prom/eeprom.c:30:19:EEPROM_ReadMemory	48	static
+../Mid/e2prom/eeprom.c:38:19:EEPROM_WirteMemory	48	static
+../Mid/e2prom/eeprom.c:46:6:eeprom_test	32	static
