@@ -1,4 +1,0 @@
-../Mid/mpu6050/example/driver_mpu6050_basic.c:49:9:mpu6050_basic_init	24	static
-../Mid/mpu6050/example/driver_mpu6050_basic.c:505:9:mpu6050_basic_read_temperature	24	static
-../Mid/mpu6050/example/driver_mpu6050_basic.c:527:9:mpu6050_basic_read	64	static
-../Mid/mpu6050/example/driver_mpu6050_basic.c:566:9:mpu6050_basic_deinit	8	static

@@ -1,5 +1,0 @@
-../Mid/mpu6050/example/driver_mpu6050_dmp.c:48:9:mpu6050_dmp_irq_handler	8	static
-../Mid/mpu6050/example/driver_mpu6050_dmp.c:71:9:mpu6050_dmp_init	96	static
-../Mid/mpu6050/example/driver_mpu6050_dmp.c:865:9:mpu6050_dmp_get_pedometer_counter	16	static
-../Mid/mpu6050/example/driver_mpu6050_dmp.c:892:9:mpu6050_dmp_read_all	48	static
-../Mid/mpu6050/example/driver_mpu6050_dmp.c:918:9:mpu6050_dmp_deinit	8	static

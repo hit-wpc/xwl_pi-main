@@ -1,9 +1,0 @@
-../Mid/mpu6050/interface/driver_mpu6050_interface_template.c:46:9:mpu6050_interface_iic_init	4	static
-../Mid/mpu6050/interface/driver_mpu6050_interface_template.c:58:9:mpu6050_interface_iic_deinit	4	static
-../Mid/mpu6050/interface/driver_mpu6050_interface_template.c:74:9:mpu6050_interface_iic_read	16	static
-../Mid/mpu6050/interface/driver_mpu6050_interface_template.c:90:9:mpu6050_interface_iic_write	16	static
-../Mid/mpu6050/interface/driver_mpu6050_interface_template.c:100:6:mpu6050_interface_delay_ms	16	static
-../Mid/mpu6050/interface/driver_mpu6050_interface_template.c:110:6:mpu6050_interface_debug_print	4	static
-../Mid/mpu6050/interface/driver_mpu6050_interface_template.c:120:6:mpu6050_interface_receive_callback	16	static
-../Mid/mpu6050/interface/driver_mpu6050_interface_template.c:169:6:mpu6050_interface_dmp_tap_callback	16	static
-../Mid/mpu6050/interface/driver_mpu6050_interface_template.c:223:6:mpu6050_interface_dmp_orient_callback	16	static
