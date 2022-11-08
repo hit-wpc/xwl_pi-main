@@ -1,0 +1,7 @@
+../Mid/dmp/mpu6050.c:104:5:Sensors_I2C_WriteRegister	40	static
+../Mid/dmp/mpu6050.c:140:5:Sensors_I2C_ReadRegister	40	static
+../Mid/dmp/mpu6050.c:170:5:get_tick_count	16	static
+../Mid/dmp/mpu6050.c:176:5:fputcc	16	static
+../Mid/dmp/mpu6050.c:270:6:gyro_data_ready_cb	4	static
+../Mid/dmp/mpu6050.c:276:6:HAL_GPIO_EXTI_Callback	16	static
+../Mid/dmp/mpu6050.c:474:6:MPU6050_Get_Euler_Temputer	152	static
